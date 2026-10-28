@@ -1,0 +1,2367 @@
+{
+    "krasnoyarsk":  [
+                        {
+                            "id":  "r-01",
+                            "name":  "Театр оперы и балета им. Д. А. Хворостовского",
+                            "address":  "Красноярск, площадь Перенсона, 2",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.008638,
+                                           92.868526
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1777247/2a0000016ae3217cd41f8996775bbd230f23/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.008918,
+                                                92.867689
+                                            ],
+                                            [
+                                                56.008972,
+                                                92.86902
+                                            ],
+                                            [
+                                                56.008404,
+                                                92.8691
+                                            ],
+                                            [
+                                                56.008347,
+                                                92.867754
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-02",
+                            "name":  "Красноярская краевая филармония (БКЗ)",
+                            "address":  "Красноярск, площадь Мира, 2Б",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.012509,
+                                           92.894871
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1554359/2a0000016ae325d4566aae1bb2fa4521da9a/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.012857,
+                                                92.893809
+                                            ],
+                                            [
+                                                56.012944,
+                                                92.895638
+                                            ],
+                                            [
+                                                56.012178,
+                                                92.895691
+                                            ],
+                                            [
+                                                56.012129,
+                                                92.8939
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-03",
+                            "name":  "Ледовый дворец «Кристалл Арена»",
+                            "address":  "Красноярск, ул. Партизана Железняка, 42",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.036602,
+                                           92.926258
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/6272620/2a0000018347be025c41dc6ab3b72462a6dc/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.037477,
+                                                92.925947
+                                            ],
+                                            [
+                                                56.036353,
+                                                92.927653
+                                            ],
+                                            [
+                                                56.035765,
+                                                92.926397
+                                            ],
+                                            [
+                                                56.036702,
+                                                92.924659
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-04",
+                            "name":  "Многофункциональный спорткомплекс «Арена.Север»",
+                            "address":  "Красноярск, ул. 9 Мая, 74",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.050616,
+                                           92.894635
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/7740052/2a000001881fc39e378946795230f7ce1f77/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.05058,
+                                                92.893648
+                                            ],
+                                            [
+                                                56.05106,
+                                                92.894657
+                                            ],
+                                            [
+                                                56.050493,
+                                                92.895569
+                                            ],
+                                            [
+                                                56.050033,
+                                                92.894635
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "kras-001",
+                            "name":  "Часовня Параскевы Пятницы",
+                            "coords":  [
+                                           56.023638,
+                                           92.859733
+                                       ],
+                            "address":  "Красноярск, Караульная гора",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://yandex-images.clstorage.net/5MJnS5149/826a0e1-/bXONI9hj5VXOT3DOIkWYxuDMR-uABEOU_luPU6BWFR3ZBrvHoM5NoEyN1W5OABvP6eRc9qVktYqVotFGUWmYigm36VZMt1DRrktwunZBTRO0_fP_Y2eBBoo7P5KUJya_b8S5JRIs-8cbKqGLP7ROaToFWsFywVB90iKHwEY-D-2dUf2W3TRnNZ08QM-CcOs0InrE-pJGEUVK6a-yVGbnrL9XyhfCXzvFG9rQu_gl_ai7Y3uhwgGBz8Ki9EInHY6cLKGOp34kJ4WvDAG-QOI4VDLZ1NlBZTCmO_lNgpfEp5_uhHg3kKz7ZEqYkruJhG_b-qPb4LAz8EyAYnfTVR-dTT6gvEVP9idUPi9D3VMzGzWD6uZaMfaxdUgZvbJlxRUtP8cJhiAu-YfYGNDpuwf-qljQKFGS4cAvsAD2MRd-ndx-Ep71XYWkVO8eYJwwUDpVkvo3efBEY1Xr274QBpbmXI8Vq-bRvRkEyeijKVgEX4tJgGmx0uGT_qOQNjMGbl9OPtIdF-2Xp-Ru3iN_k2D7hHHoBOtQFTF3uxot0geGtcxNFZplcCyJFSjrYFoJF51p-GAosTLjAY7gkmRBx5zd7AxAzNTudwYWzKwAnGPgClQgetcLU6bSZ5vYfFOX9cfMf6a7hFJfy5X5mnCpiCZvaOlRyrEBQNLNo_HWsWd8_809ca7mrLYXB-09Q73wA7mU4IqGSVIlkZbrik4h1YfFj7-FuKQDf5h3mykwm2oWDRp6cFsCoeFRPOICJfIFni5uHIO8tM6nBOYuruPsoxOIduFL5SlCt1LnK4mPYIZndtxctTqnsBxLpMt6Ywm7tGwKGqF485Jxom6CwNXiRO_-XfxQLgcedGeV3OxiPWHz6TZjSuX74hRytjmo7qCV5Mbtr2W6h5K-yzQ7WACYKZZvSLpx63CgceINspOkcYRcbe6NkF7W7QRGRs7fMO0j0QqUkPmnerHWMFc4Gl4BhLdXU"
+                                       ]
+                        },
+                        {
+                            "id":  "kras-002",
+                            "name":  "Красноярский краеведческий музей",
+                            "coords":  [
+                                           56.007383,
+                                           92.872775
+                                       ],
+                            "address":  "Красноярск, ул. Дубровинского, 84",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%D0%9A%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%281%29.jpg/1280px-%D0%9A%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%281%29.jpg"
+                                       ]
+                        },
+                        {
+                            "id":  "kras-003",
+                            "name":  "Коммунальный мост",
+                            "address":  "Красноярск, Коммунальный мост",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.003795,
+                                           92.874173
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/i?id=9dddb43fa2521804c3c270d139ec0ade_l-13266420-images-thumbs&n=13"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.006385,
+                                                92.872429
+                                            ],
+                                            [
+                                                56.006409,
+                                                92.872901
+                                            ],
+                                            [
+                                                55.992917,
+                                                92.885244
+                                            ],
+                                            [
+                                                55.992677,
+                                                92.88503
+                                            ],
+                                            [
+                                                55.996564,
+                                                92.878822
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "kras-004",
+                            "name":  "Триумфальная арка",
+                            "address":  "Красноярск, площадь Мира",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.013251,
+                                           92.892764
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/923092/2a00000162876b60dd980bee874f01e29606/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "kras-005",
+                            "name":  "Будда",
+                            "address":  "Красноярск, микрорайон Покровка",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.028216,
+                                           92.850925
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/12728107/2a0000018fa795ea21f21704448794917fb4/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "kras-007",
+                            "name":  "Сокол Термы",
+                            "coords":  [
+                                           56.072948,
+                                           92.998836
+                                       ],
+                            "address":  "Красноярск, улица Пограничников, 105",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/16771051/2a0000019880b21a284443409d83f1d319b8/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "kras-008",
+                            "name":  "Равшан и Джамшут",
+                            "address":  "Красноярск, 9-й микрорайон, микрорайон Зелёная Роща",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.056173,
+                                           92.961845
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/9822373/2a00000191b3dc4e719908b3a6ee3d3f1ee1/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "kras-009",
+                            "name":  "Circus Concert Hall",
+                            "coords":  [
+                                           56.029037,
+                                           92.776160
+                                       ],
+                            "address":  "Красноярск, Высотная улица, 35А/1",
+                            "district":  "Октябрьский",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1969018/2a0000017b1c6d1f9bcf2ab05a89b6d66f11/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "kras-010",
+                            "name":  "Лестница на Торгашинский хребет",
+                            "address":  "Свердловский район, городской округ Красноярск",
+                            "district":  "Свердловский",
+                            "bank":  "right",
+                            "coords":  [
+                                           55.952464,
+                                           92.836503
+                                       ],
+                            "images":  [
+                                           "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/dc6b256a-4a53-48cf-94cd-714938b12f42/-/format/webp/-/quality/smart_retina/-/stretch/off/-/resize/900x/"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                55.957134,
+                                                92.839017
+                                            ],
+                                            [
+                                                55.952668,
+                                                92.833652
+                                            ],
+                                            [
+                                                55.950645,
+                                                92.841871
+                                            ],
+                                            [
+                                                55.955461,
+                                                92.847771
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-06",
+                            "name":  "Главный корпус СФУ («Пирамида»)",
+                            "address":  "Красноярск, Свободный проспект, 82а",
+                            "district":  "Октябрьский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.003972,
+                                           92.765865
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/13929277/2a000001928ff51c08d32bc8531c4caff9e6/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-07",
+                            "name":  "СибГУ им. М. Ф. Решетнева",
+                            "coords":  [
+                                           56.011879,
+                                           92.973789
+                                       ],
+                            "address":  "Красноярск, проспект им. газеты Красноярский Рабочий, 31",
+                            "district":  "Ленинский",
+                            "bank":  "right",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/2039785/2a00000170f6dca951d6e676a10490b9fd23/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-10",
+                            "name":  "Городские часы («Красноярский Биг-Бен»)",
+                            "coords":  [
+                                           56.009506,
+                                           92.872396
+                                       ],
+                            "address":  "Красноярск, ул. Карла Маркса, 93",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/16136444/2a0000019a5e194dce298710aa6d2c2b9d56/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-11",
+                            "name":  "Театр драмы имени А. С. Пушкина",
+                            "address":  "Красноярск, проспект Мира, 73",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.011548,
+                                           92.865559
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/20244164/2a0000019f41508fdab42042e200869c8564/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.011649,
+                                                92.865323
+                                            ],
+                                            [
+                                                56.011682,
+                                                92.865795
+                                            ],
+                                            [
+                                                56.011039,
+                                                92.865972
+                                            ],
+                                            [
+                                                56.011024,
+                                                92.865371
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-12",
+                            "name":  "Музей-усадьба В. И. Сурикова",
+                            "address":  "Красноярск, улица Ленина, 98",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.013204,
+                                           92.862043
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1881820/2a0000016ae325773c445f229cb42b944ecb/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-13",
+                            "name":  "Покровский кафедральный собор",
+                            "address":  "Красноярск, улица Сурикова, 26",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.012842,
+                                           92.876697
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/6928818/2a000001835911c4e3eeeea49696d09c25b0/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-14",
+                            "name":  "Красноярский речной вокзал",
+                            "coords":  [
+                                           56.007820,
+                                           92.881829
+                                       ],
+                            "address":  "Красноярск, улица Дубровинского, 1",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/18777611/2a0000019e9cc8e2a451869dcd46d598fe26/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-15",
+                            "name":  "Пароход-музей «Святитель Николай»",
+                            "address":  "Красноярск, набережная Стрелки",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.010573,
+                                           92.895026
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/13944697/2a0000019792703e45465dc861bfc440dda9/XXXL"
+                                       ],
+                            "polygon":  null
+                        },
+                        {
+                            "id":  "r-16",
+                            "name":  "Музейный центр «Площадь Мира» (КИЦ)",
+                            "address":  "Красноярск, площадь Мира, 1",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.010892,
+                                           92.893642
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/11072941/2a0000018b715deac208042aadd2f4163027/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-17",
+                            "name":  "Виноградовский вантовый мост",
+                            "address":  "Красноярск, пешеходный мост на остров Татышев",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.013842,
+                                           92.9012
+                                       ],
+                            "images":  [
+                                           "https://upload.wikimedia.org/wikipedia/commons/9/99/Vantovyjj_most%2C_the_bridge_in_Krasnoyarsk%2C_Russia%2C_view_from_the_left_bank.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.013782,
+                                                92.899225
+                                            ],
+                                            [
+                                                56.014167,
+                                                92.906972
+                                            ],
+                                            [
+                                                56.014101,
+                                                92.906982
+                                            ],
+                                            [
+                                                56.01369,
+                                                92.899253
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-18",
+                            "name":  "Дворец спорта имени Ивана Ярыгина",
+                            "address":  "Красноярск, остров Отдыха, 12",
+                            "district":  "Свердловский",
+                            "bank":  "right",
+                            "coords":  [
+                                           55.995638,
+                                           92.875268
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/16416536/2a0000019a5e1acaf09d0ae6a8641652176f/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                55.995581,
+                                                92.87338
+                                            ],
+                                            [
+                                                55.996243,
+                                                92.875429
+                                            ],
+                                            [
+                                                55.995389,
+                                                92.876298
+                                            ],
+                                            [
+                                                55.994776,
+                                                92.874141
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-19",
+                            "name":  "Центральный стадион Красноярска",
+                            "address":  "Красноярск, остров Отдыха, 15а",
+                            "district":  "Свердловский",
+                            "bank":  "right",
+                            "coords":  [
+                                           55.998453,
+                                           92.884929
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/16329823/2a00000199c20e5c95b7aa2fc1cb88ac2654/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                55.999004,
+                                                92.88215
+                                            ],
+                                            [
+                                                55.999292,
+                                                92.886227
+                                            ],
+                                            [
+                                                55.997681,
+                                                92.886442
+                                            ],
+                                            [
+                                                55.997657,
+                                                92.882558
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-20",
+                            "name":  "ТРЦ «Планета»",
+                            "address":  "Красноярск, улица 9 Мая, 77",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.050694,
+                                           92.903416
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1899727/2a00000169c9aad8d37c27e1f6ed5d377bdc/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.049647,
+                                                92.899672
+                                            ],
+                                            [
+                                                56.052673,
+                                                92.905165
+                                            ],
+                                            [
+                                                56.051208,
+                                                92.907418
+                                            ],
+                                            [
+                                                56.047978,
+                                                92.902375
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-21",
+                            "name":  "ТРЦ «Июнь»",
+                            "address":  "Красноярск, улица Партизана Железняка, 23",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.037148,
+                                           92.934729
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/18108291/2a0000019e082553b2bcefdc453cad97a1a7/XXXL"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.0373,
+                                                92.933446
+                                            ],
+                                            [
+                                                56.038039,
+                                                92.935302
+                                            ],
+                                            [
+                                                56.03727,
+                                                92.936654
+                                            ],
+                                            [
+                                                56.036441,
+                                                92.934669
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-22",
+                            "name":  "Железнодорожный вокзал Красноярск-Главный",
+                            "address":  "Красноярск, улица 30 Июля, 1",
+                            "district":  "Железнодорожный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.005741,
+                                           92.830034
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/9916116/2a0000018917361e9e820e9da6d3cf06c3c4/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-23",
+                            "name":  "Органный зал (Храм Преображения Господня)",
+                            "address":  "Красноярск, улица Декабристов, 20",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.007639,
+                                           92.847482
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1909414/2a0000016ae2f995f42ff5c87505505ca888/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-24",
+                            "name":  "Красноярский государственный цирк",
+                            "coords":  [
+                                           55.995918,
+                                           92.907302
+                                       ],
+                            "address":  "Красноярск, проспект им. газеты Красноярский Рабочий, 143А",
+                            "district":  "Свердловский",
+                            "bank":  "right",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1871297/2a0000016ae320edb25a83b973cf88b87465/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-25",
+                            "name":  "СЗК «Платинум Арена Красноярск»",
+                            "address":  "Красноярск, улица Лесников, 21",
+                            "district":  "Свердловский",
+                            "bank":  "right",
+                            "coords":  [
+                                           55.983337,
+                                           92.807684
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1090799/2a000001872832e716d85a939721b9409b26/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-26",
+                            "name":  "Николаевский мост",
+                            "address":  "Красноярск, Николаевский мост через Енисей",
+                            "district":  "Октябрьский",
+                            "bank":  "left",
+                            "coords":  [
+                                           55.988077,
+                                           92.809776
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/14246212/2a000001992a3b72d78b0592cb0e099778d1/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                55.991827,
+                                                92.808133
+                                            ],
+                                            [
+                                                55.991659,
+                                                92.80764
+                                            ],
+                                            [
+                                                55.984839,
+                                                92.811438
+                                            ],
+                                            [
+                                                55.984935,
+                                                92.811781
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-28",
+                            "name":  "Фанпарк «Бобровый лог»",
+                            "address":  "Красноярск, Сибирская улица, 92",
+                            "district":  "Свердловский",
+                            "bank":  "right",
+                            "coords":  [
+                                           55.961,
+                                           92.793
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/9717139/2a0000018920c50a1515e01cda73d95500e6/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                55.951692,
+                                                92.777626
+                                            ],
+                                            [
+                                                55.963152,
+                                                92.7905
+                                            ],
+                                            [
+                                                55.959637,
+                                                92.802259
+                                            ],
+                                            [
+                                                55.947502,
+                                                92.789299
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-29",
+                            "name":  "Парк флоры и фауны «Роев Ручей»",
+                            "address":  "Красноярск, Свердловская улица, 293",
+                            "district":  "Свердловский",
+                            "bank":  "right",
+                            "coords":  [
+                                           55.965864,
+                                           92.732243
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/10814540/2a0000018b715de9fbeaa657666519b3f05f/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                55.967029,
+                                                92.728863
+                                            ],
+                                            [
+                                                55.967583,
+                                                92.734378
+                                            ],
+                                            [
+                                                55.964803,
+                                                92.735494
+                                            ],
+                                            [
+                                                55.964177,
+                                                92.729636
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-31",
+                            "name":  "Свято-Успенский мужской монастырь (Удачный)",
+                            "coords":  [
+                                           55.979581,
+                                           92.741182
+                                       ],
+                            "address":  "Красноярск, Лесная улица, 55А",
+                            "district":  "Октябрьский",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/897342/2a0000018c62d9208c38e73e367792b09d3c/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-32",
+                            "name":  "Памятник Андрею Дубенскому",
+                            "address":  "Красноярск, улица Белинского",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.022306,
+                                           92.903804
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/19392810/2a0000019e8dabb616808a1ab2da478fdd44/XXXL"
+                                       ],
+                            "polygon":  null
+                        },
+                        {
+                            "id":  "r-33",
+                            "name":  "Здание Администрации Красноярского края",
+                            "address":  "Красноярск, проспект Мира, 110",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.011552,
+                                           92.852418
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/14221082/2a00000192f5a021c042919918205e8c5d0c/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-34",
+                            "name":  "Бизнес-центр «Первая Башня»",
+                            "coords":  [
+                                           56.043688,
+                                           92.907611
+                                       ],
+                            "address":  "Красноярск, ул. 78 Добровольческой Бригады, 15",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/787110/2a000001619b1a90ce9355739fc08e216934/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-35",
+                            "name":  "Футбол-Арена «Енисей»",
+                            "address":  "Красноярск, Новгородская улица, 5",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.057871,
+                                           92.983543
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/5649895/2a0000017d6335cd540aa1b74e840491203b/XXXL"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.058549,
+                                                92.983157
+                                            ],
+                                            [
+                                                56.057558,
+                                                92.982524
+                                            ],
+                                            [
+                                                56.057228,
+                                                92.98423
+                                            ],
+                                            [
+                                                56.058237,
+                                                92.984809
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-36",
+                            "name":  "Визит-центр Татышев-парка",
+                            "address":  "Красноярск, остров Татышев",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.013982,
+                                           92.907608
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/10702222/2a0000018ab691ef6b90370df72c863df773/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-37",
+                            "name":  "Красноярский музыкальный театр",
+                            "address":  "Красноярск, проспект Мира, 129",
+                            "district":  "Железнодорожный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.01,
+                                           92.836
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1871013/2a0000016ae313669780f03b7ee80ec7ae16/L_height"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.010062,
+                                                92.835099
+                                            ],
+                                            [
+                                                56.010141,
+                                                92.836451
+                                            ],
+                                            [
+                                                56.00926,
+                                                92.836563
+                                            ],
+                                            [
+                                                56.009212,
+                                                92.835206
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-38",
+                            "name":  "Храм Рождества Христова на Щорса",
+                            "coords":  [
+                                           55.993530,
+                                           92.953793
+                                       ],
+                            "address":  "Красноярск, улица Щорса, 44А",
+                            "district":  "Кировский",
+                            "bank":  "right",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1899063/2a0000016cdc232402f3c0a60ceace38fbb4/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-39",
+                            "name":  "Красноярский ТЮЗ",
+                            "address":  "Красноярск, улица Академика Вавилова, 25",
+                            "district":  "Кировский",
+                            "bank":  "right",
+                            "coords":  [
+                                           55.99687,
+                                           92.928567
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/14733519/2a00000196241587a9802bf314313ee15bd5/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-40",
+                            "name":  "Дворец культуры им. 1 Мая",
+                            "coords":  [
+                                           56.017695,
+                                           92.982246
+                                       ],
+                            "address":  "Красноярск, улица Юности, 16",
+                            "district":  "Ленинский",
+                            "bank":  "right",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1032555/2a000001622c5ccd355eddc9543ed0d14759/L_height"
+                                       ]
+                        },
+                        {
+                            "id":  "r-41",
+                            "name":  "Мост «777» (Коркинский мост)",
+                            "address":  "Красноярск, совмещенный мост через Енисей",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.066128,
+                                           93.008667
+                                       ],
+                            "images":  [
+                                           "https://dela.ru/medianew/img/kork-most-2-7860109.jpg"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.068154,
+                                                92.998721
+                                            ],
+                                            [
+                                                56.064433,
+                                                93.017776
+                                            ],
+                                            [
+                                                56.064217,
+                                                93.01769
+                                            ],
+                                            [
+                                                56.067914,
+                                                92.998721
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-42",
+                            "name":  "Дом офицеров",
+                            "address":  "Красноярск, улица Перенсона, 20",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.011663,
+                                           92.86727
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1514203/2a0000016ae306033d3cedbc4d1211966b8c/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-43",
+                            "name":  "МиГ-21Ф",
+                            "address":  "Красноярск, проспект Металлургов",
+                            "district":  "Советский",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.04398,
+                                           92.942092
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/16444693/2a00000199f61251cc270978c877046b960a/XXXL"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.045114,
+                                                92.941405
+                                            ],
+                                            [
+                                                56.044099,
+                                                92.943433
+                                            ],
+                                            [
+                                                56.043187,
+                                                92.941513
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-44",
+                            "name":  "Дворец культуры комбайностроителей",
+                            "address":  "Красноярск, улица Бограда, 134",
+                            "district":  "Железнодорожный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.0067,
+                                           92.836104
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/15608211/2a00000199accac1c1dd67f9be8417a3b08d/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-46",
+                            "name":  "Сквер им. В. И. Сурикова",
+                            "address":  "Красноярск, улица Ленина",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.013043,
+                                           92.852129
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/15043309/2a0000019933930784a74ff6f896be62e585/XXXL"
+                                       ],
+                            "polygon":  [
+                                            [
+                                                56.013394,
+                                                92.850938
+                                            ],
+                                            [
+                                                56.012583,
+                                                92.851083
+                                            ],
+                                            [
+                                                56.012712,
+                                                92.853475
+                                            ],
+                                            [
+                                                56.013511,
+                                                92.853148
+                                            ]
+                                        ]
+                        },
+                        {
+                            "id":  "r-47",
+                            "name":  "Беседка «Пушкин и Натали»",
+                            "address":  "Красноярск, сквер на пересечении Мира и Кирова",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "coords":  [
+                                           56.011494,
+                                           92.864001
+                                       ],
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/14675612/2a00000195da9a1cea8ac3293321f68e4c75/XXXL"
+                                       ]
+                        },
+                        {
+                            "id":  "r-50",
+                            "name":  "Государственная универсальная научная библиотека Красноярского края",
+                            "coords":  [
+                                           56.010088,
+                                           92.855077
+                                       ],
+                            "address":  "Красноярск, улица Карла Маркса, 114",
+                            "district":  "Центральный",
+                            "bank":  "left",
+                            "images":  [
+                                           "https://avatars.mds.yandex.net/get-altay/1524599/2a0000016ae2fee920c715fb28149cd06a49/L_height"
+                                       ]
+                        }
+                    ],
+    "russia":  [
+                   {
+                       "id":  "rus-001",
+                       "name":  "Московский Кремль",
+                       "address":  "Москва, Красная площадь",
+                       "federal":  "ЦФО",
+                       "region":  "Москва",
+                       "coords":  [
+                                      55.751722,
+                                      37.619113
+                                  ],
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/c/c1/DSC07437-%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C.jpg"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           55.755085,
+                                           37.616549
+                                       ],
+                                       [
+                                           55.748926,
+                                           37.612622
+                                       ],
+                                       [
+                                           55.749724,
+                                           37.623351
+                                       ],
+                                       [
+                                           55.752581,
+                                           37.62157
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-002",
+                       "name":  "Собор Василия Блаженного",
+                       "coords":  [
+                                      55.7525,
+                                      37.6231
+                                  ],
+                       "address":  "Москва, Красная площадь",
+                       "federal":  "ЦФО",
+                       "region":  "Москва",
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/4/4e/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_2024_03.jpg"
+                                  ]
+                   },
+                   {
+                       "id":  "rus-003",
+                       "name":  "Храм Христа Спасителя",
+                       "coords":  [
+                                      55.7447,
+                                      37.6056
+                                  ],
+                       "address":  "Москва, ул. Волхонка, 15",
+                       "federal":  "ЦФО",
+                       "region":  "Москва",
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cathedral_of_Christ_the_Saviour_2024.jpg"
+                                  ]
+                   },
+                   {
+                       "id":  "rus-004",
+                       "name":  "Третьяковская галерея",
+                       "address":  "Москва, Лаврушинский пер., 10",
+                       "federal":  "ЦФО",
+                       "region":  "Москва",
+                       "coords":  [
+                                      55.741547,
+                                      37.620021
+                                  ],
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/7/74/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F.JPG"
+                                  ]
+                   },
+                   {
+                       "id":  "rus-005",
+                       "name":  "Останкинская телебашня",
+                       "coords":  [
+                                      55.8197,
+                                      37.6117
+                                  ],
+                       "address":  "Москва, ул. Академика Королёва, 15",
+                       "federal":  "ЦФО",
+                       "region":  "Москва",
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/c/c7/%D0%9E%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D0%BB%D0%B5%D0%B1%D0%B0%D1%88%D0%BD%D1%8F%2C_2015%2C_ArmAg_%285%29.JPG"
+                                  ]
+                   },
+                   {
+                       "id":  "rus-006",
+                       "name":  "Троице-Сергиева лавра",
+                       "address":  "Сергиев Посад, Свято-Троицкая Сергиева Лавра",
+                       "federal":  "ЦФО",
+                       "region":  "Московская область",
+                       "coords":  [
+                                      56.311221,
+                                      38.130504
+                                  ],
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/f/f6/%D0%9B%D0%B0%D0%B2%D1%80%D0%B01.JPG"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           56.312666,
+                                           38.131947
+                                       ],
+                                       [
+                                           56.30939,
+                                           38.132424
+                                       ],
+                                       [
+                                           56.308769,
+                                           38.129345
+                                       ],
+                                       [
+                                           56.311113,
+                                           38.127672
+                                       ],
+                                       [
+                                           56.312204,
+                                           38.129614
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-007",
+                       "name":  "Суздальский кремль",
+                       "address":  "Суздаль, ул. Кремлёвская",
+                       "federal":  "ЦФО",
+                       "region":  "Владимирская область",
+                       "coords":  [
+                                      56.416202,
+                                      40.442619
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/225456/2a0000015ee25be0c8d0e5c07a23d9f4d0fe/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-008",
+                       "name":  "Спасо-Преображенский монастырь",
+                       "address":  "Ярославль, Богоявленская пл., 25",
+                       "federal":  "ЦФО",
+                       "region":  "Ярославская область",
+                       "coords":  [
+                                      57.621517,
+                                      39.889455
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/16138055/2a0000019cc90477e1623d4fa75565a00ff2/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           57.622069,
+                                           39.887331
+                                       ],
+                                       [
+                                           57.620647,
+                                           39.887459
+                                       ],
+                                       [
+                                           57.620774,
+                                           39.890056
+                                       ],
+                                       [
+                                           57.621804,
+                                           39.891622
+                                       ],
+                                       [
+                                           57.622685,
+                                           39.889391
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-009",
+                       "name":  "Эрмитаж (Зимний дворец)",
+                       "address":  "Санкт-Петербург, Дворцовая пл., 2",
+                       "federal":  "СЗФО",
+                       "region":  "Санкт-Петербург",
+                       "coords":  [
+                                      59.9398,
+                                      30.3146
+                                  ],
+                       "images":  [
+                                      "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/ba695396-aa6a-4994-bf89-ca66e253c9ac/-/format/webp/-/resize/1300x/"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           59.940537,
+                                           30.311381
+                                       ],
+                                       [
+                                           59.939213,
+                                           30.313227
+                                       ],
+                                       [
+                                           59.940424,
+                                           30.316381
+                                       ],
+                                       [
+                                           59.941662,
+                                           30.314525
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-010",
+                       "name":  "Петропавловская крепость",
+                       "address":  "Санкт-Петербург, Заячий остров",
+                       "federal":  "СЗФО",
+                       "region":  "Санкт-Петербург",
+                       "coords":  [
+                                      59.95,
+                                      30.3167
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/363317/2a0000015e53324f37a19e33ebf81e4ba5a0/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           59.9493,
+                                           30.309329
+                                       ],
+                                       [
+                                           59.952335,
+                                           30.321796
+                                       ],
+                                       [
+                                           59.950161,
+                                           30.322826
+                                       ],
+                                       [
+                                           59.947804,
+                                           30.311647
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-011",
+                       "name":  "Исаакиевский собор",
+                       "address":  "Санкт-Петербург, Исаакиевская пл., 4",
+                       "federal":  "СЗФО",
+                       "region":  "Санкт-Петербург",
+                       "coords":  [
+                                      59.9342,
+                                      30.3061
+                                  ],
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/8/83/Saint_Isaac%27s_Cathedral_in_SPB.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-012",
+                       "name":  "Храм Спаса на Крови",
+                       "address":  "Санкт-Петербург, наб. канала Грибоедова, 2Б",
+                       "federal":  "СЗФО",
+                       "region":  "Санкт-Петербург",
+                       "coords":  [
+                                      59.94,
+                                      30.3289
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/1868686/2a0000016ae2f79f949440b7d3a80b97497d/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-013",
+                       "name":  "Мариинский театр",
+                       "address":  "Санкт-Петербург, Театральная пл., 1",
+                       "federal":  "СЗФО",
+                       "region":  "Санкт-Петербург",
+                       "coords":  [
+                                      59.9256,
+                                      30.296
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/9954022/2a00000188f532a42255afd04f1bfe0e650b/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-014",
+                       "name":  "Псковский кремль",
+                       "address":  "Псков, ул. Кремль, 2",
+                       "federal":  "СЗФО",
+                       "region":  "Псковская область",
+                       "coords":  [
+                                      57.823243,
+                                      28.328573
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/13078542/2a0000019164f63e81a384361bee65dc0b75/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-015",
+                       "name":  "Новгородский кремль (Детинец)",
+                       "address":  "Великий Новгород, Кремль",
+                       "federal":  "СЗФО",
+                       "region":  "Новгородская область",
+                       "coords":  [
+                                      58.521503,
+                                      31.275539
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/16749408/2a0000019884260ecbe69d3b7cb6ddad6d25/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           58.517865,
+                                           31.275636
+                                       ],
+                                       [
+                                           58.523063,
+                                           31.279412
+                                       ],
+                                       [
+                                           58.523545,
+                                           31.274198
+                                       ],
+                                       [
+                                           58.518775,
+                                           31.271988
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-016",
+                       "name":  "Олимпийский парк",
+                       "address":  "Сочи, Адлерский район",
+                       "federal":  "ЮФО",
+                       "region":  "Краснодарский край",
+                       "coords":  [
+                                      43.4028,
+                                      39.956
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/13930885/2a00000192031e310a312dd1a3f72d18da15/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           43.402852,
+                                           39.9464
+                                       ],
+                                       [
+                                           43.410298,
+                                           39.95082
+                                       ],
+                                       [
+                                           43.407545,
+                                           39.961935
+                                       ],
+                                       [
+                                           43.39991,
+                                           39.956614
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-017",
+                       "name":  "Курорт «Роза Хутор»",
+                       "address":  "Сочи, Красная Поляна, Роза Хутор",
+                       "federal":  "ЮФО",
+                       "region":  "Краснодарский край",
+                       "coords":  [
+                                      43.66971,
+                                      40.261079
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/1923723/2a0000016cb49c5073ead2f7796c6efdd0e8/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           43.681325,
+                                           40.262184
+                                       ],
+                                       [
+                                           43.676716,
+                                           40.280895
+                                       ],
+                                       [
+                                           43.654534,
+                                           40.268106
+                                       ],
+                                       [
+                                           43.661451,
+                                           40.24519
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-018",
+                       "name":  "Парк Галицкого",
+                       "address":  "Краснодар, ул. Разведчика Леонова",
+                       "federal":  "ЮФО",
+                       "region":  "Краснодарский край",
+                       "coords":  [
+                                      45.043783,
+                                      39.03738
+                                  ],
+                       "images":  [
+                                      "https://img.geliophoto.com/parkkrasnodar/02_parkkrasnodar.jpg"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           45.03681,
+                                           39.029334
+                                       ],
+                                       [
+                                           45.042408,
+                                           39.027532
+                                       ],
+                                       [
+                                           45.050501,
+                                           39.042982
+                                       ],
+                                       [
+                                           45.044142,
+                                           39.043024
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-019",
+                       "name":  "Астраханский кремль",
+                       "address":  "Астрахань, ул. Тредиаковского, 2",
+                       "federal":  "ЮФО",
+                       "region":  "Астраханская область",
+                       "coords":  [
+                                      46.349388,
+                                      48.030563
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/2022045/2a000001719d1734924ee5398f80bdcb1442/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           46.351779,
+                                           48.032913
+                                       ],
+                                       [
+                                           46.347262,
+                                           48.025832
+                                       ],
+                                       [
+                                           46.347589,
+                                           48.033449
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-020",
+                       "name":  "Мечеть «Сердце Чечни»",
+                       "address":  "Грозный, пр. В. В. Путина",
+                       "federal":  "СКФО",
+                       "region":  "Чеченская Республика",
+                       "coords":  [
+                                      43.317669,
+                                      45.693942
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/16771051/2a00000199f31739cd87fae34947ba7d5e06/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-021",
+                       "name":  "Крепость Нарын-Кала",
+                       "address":  "Дербент, ул. Крепостная",
+                       "federal":  "СКФО",
+                       "region":  "Республика Дагестан",
+                       "coords":  [
+                                      42.053147,
+                                      48.275126
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/1514203/2a0000016ae312faad45a8e9f42f461f743f/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-022",
+                       "name":  "Казанский кремль",
+                       "address":  "Казань, Кремль",
+                       "federal":  "ПФО",
+                       "region":  "Республика Татарстан",
+                       "coords":  [
+                                      55.797624,
+                                      49.107296
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/15045776/2a000001959fff400e7e0d157856f4f84c01/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           55.796284,
+                                           49.106538
+                                       ],
+                                       [
+                                           55.800817,
+                                           49.10553
+                                       ],
+                                       [
+                                           55.798853,
+                                           49.108759
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-023",
+                       "name":  "Мечеть Кул-Шариф",
+                       "address":  "Казань, Казанский кремль",
+                       "federal":  "ПФО",
+                       "region":  "Республика Татарстан",
+                       "coords":  [
+                                      55.798378,
+                                      49.10514
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/247136/2a0000015b17129f55704bd636c87afa5e0c/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-024",
+                       "name":  "Нижегородский кремль",
+                       "address":  "Нижний Новгород, пл. Минина",
+                       "federal":  "ПФО",
+                       "region":  "Нижегородская область",
+                       "coords":  [
+                                      56.328449,
+                                      44.003137
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/11408080/2a000001913dbcd645dae1dcd1b1eca7eea3/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           56.3257,
+                                           43.998921
+                                       ],
+                                       [
+                                           56.32998,
+                                           44.00907
+                                       ],
+                                       [
+                                           56.330552,
+                                           44.000401
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-025",
+                       "name":  "Чкаловская лестница",
+                       "address":  "Нижний Новгород, набережная Федоровского",
+                       "federal":  "ПФО",
+                       "region":  "Нижегородская область",
+                       "coords":  [
+                                      56.330881,
+                                      44.009451
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/20249436/2a0000019e81bdb5dd6ec647580525008c6e/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-028",
+                       "name":  "Храм на Крови",
+                       "address":  "Екатеринбург, ул. Толмачёва, 34",
+                       "federal":  "УФО",
+                       "region":  "Свердловская область",
+                       "coords":  [
+                                      56.844398,
+                                      60.609048
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/15152716/2a00000196f45b679e35f7824dfcab225aa5/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-029",
+                       "name":  "Плотинка",
+                       "address":  "Екатеринбург, плотина Городского пруда",
+                       "federal":  "УФО",
+                       "region":  "Свердловская область",
+                       "coords":  [
+                                      56.838065,
+                                      60.603642
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/17785064/2a0000019e2b84c9c2f32e41ab55c5391cb3/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-031",
+                       "name":  "Памятник Курчатову",
+                       "address":  "Челябинск, пл. Науки",
+                       "federal":  "УФО",
+                       "region":  "Челябинская область",
+                       "coords":  [
+                                      55.159321,
+                                      61.362785
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/11371852/2a0000018bd39d08f4557ede9818e8726836/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-032",
+                       "name":  "Новосибирский оперный театр",
+                       "address":  "Новосибирск, Красный пр., 36",
+                       "federal":  "СФО",
+                       "region":  "Новосибирская область",
+                       "coords":  [
+                                      55.030429,
+                                      82.924604
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/18111128/2a0000019e1cee2e94395787dbe9fd905c0e/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-033",
+                       "name":  "Озеро Байкал (Листвянка)",
+                       "address":  "Иркутская область, пос. Листвянка",
+                       "federal":  "СФО",
+                       "region":  "Иркутская область",
+                       "coords":  [
+                                      51.86061,
+                                      104.864183
+                                  ],
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/1/1c/Listvyanka_poselok.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           51.857474,
+                                           104.857403
+                                       ],
+                                       [
+                                           51.878197,
+                                           104.87474
+                                       ],
+                                       [
+                                           51.878038,
+                                           104.879547
+                                       ],
+                                       [
+                                           51.853701,
+                                           104.863754
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-034",
+                       "name":  "Успенский собор",
+                       "address":  "Омск, Соборная пл., 1",
+                       "federal":  "СФО",
+                       "region":  "Омская область",
+                       "coords":  [
+                                      54.990218,
+                                      73.366959
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/15709664/2a00000198418cf0d4d90daad96dc9db0483/XXXL"
+                                  ],
+                       "polygon":  null
+                   },
+                   {
+                       "id":  "rus-036",
+                       "name":  "Золотой мост",
+                       "address":  "Владивосток, через бухту Золотой Рог",
+                       "federal":  "ДФО",
+                       "region":  "Приморский край",
+                       "coords":  [
+                                      43.108367,
+                                      131.896316
+                                  ],
+                       "images":  [
+                                      "https://upload.wikimedia.org/wikipedia/commons/3/39/Zolotoy_Bridge_%28October_2024%29-0_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           43.112658,
+                                           131.896166
+                                       ],
+                                       [
+                                           43.11269,
+                                           131.896724
+                                       ],
+                                       [
+                                           43.106024,
+                                           131.896595
+                                       ],
+                                       [
+                                           43.106024,
+                                           131.895994
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-037",
+                       "name":  "Русский мост",
+                       "address":  "Владивосток, через пролив Босфор Восточный",
+                       "federal":  "ДФО",
+                       "region":  "Приморский край",
+                       "coords":  [
+                                      43.0635,
+                                      131.9053
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/6203011/2a00000180ffb28004a876f27bed0fbf62e5/XXXL"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           43.057576,
+                                           131.898537
+                                       ],
+                                       [
+                                           43.070226,
+                                           131.918449
+                                       ],
+                                       [
+                                           43.069848,
+                                           131.919136
+                                       ],
+                                       [
+                                           43.056758,
+                                           131.899309
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-038",
+                       "name":  "Хабаровский мост",
+                       "address":  "Хабаровск, через р. Амур",
+                       "federal":  "ДФО",
+                       "region":  "Хабаровский край",
+                       "coords":  [
+                                      48.536203,
+                                      135.002631
+                                  ],
+                       "images":  [
+                                      "https://ethnomir.ru/upload/medialibrary/09e/1.jpg"
+                                  ],
+                       "polygon":  [
+                                       [
+                                           48.533078,
+                                           134.979106
+                                       ],
+                                       [
+                                           48.537866,
+                                           135.012236
+                                       ],
+                                       [
+                                           48.538151,
+                                           135.011936
+                                       ],
+                                       [
+                                           48.533014,
+                                           134.979225
+                                       ]
+                                   ]
+                   },
+                   {
+                       "id":  "rus-039",
+                       "name":  "Вулкан Авачинский",
+                       "address":  "Камчатский край, Авачинская сопка",
+                       "federal":  "ДФО",
+                       "region":  "Камчатский край",
+                       "coords":  [
+                                      53.254112,
+                                      158.835288
+                                  ],
+                       "images":  [
+                                      "https://avatars.mds.yandex.net/get-altay/14402904/2a0000019348c84774861a2453473ac450f9/XXXL"
+                                  ],
+                       "polygon":  null
+                   }
+               ],
+    "sfu":  [
+                {
+                    "id":  "sfu-01",
+                    "name":  "Институт космических и информационных технологий (ИКИТ СФУ)",
+                    "address":  "Красноярск, ул. Академика Киренского, 26к1",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.994466,
+                                   92.797498
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/16330083/2a000001982440e02abc9fb2990be2d72ce9/XXXL"
+                               ],
+                    "polygon":  [
+                                    [
+                                        55.994283,
+                                        92.796801
+                                    ],
+                                    [
+                                        55.994274,
+                                        92.798453
+                                    ],
+                                    [
+                                        55.994611,
+                                        92.797611
+                                    ]
+                                ]
+                },
+                {
+                    "id":  "sfu-02",
+                    "name":  "Научная библиотека СФУ",
+                    "coords":  [
+                                   56.003809,
+                                   92.770196
+                               ],
+                    "address":  "Красноярск, Свободный проспект, 79/10",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/236825/2a0000015b8675bc6f6d3ec3c60506af95b6/L_height"
+                               ]
+                },
+                {
+                    "id":  "sfu-03",
+                    "name":  "Главный корпус СФУ «Пирамида»",
+                    "address":  "Красноярск, Свободный проспект, 82а",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.003974,
+                                   92.765868
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/13904936/2a000001928f28071ab734d40ff57e5211fe/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-04",
+                    "name":  "Общежитие №21 СФУ",
+                    "address":  "Красноярск, Свободный проспект, 76Н",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.008634,
+                                   92.767059
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/13930885/2a000001919320ef5fcbc0253d45efb5f31f/XXXL"
+                               ]
+                },
+                {
+                    "id":  "sfu-05",
+                    "name":  "Политехнический институт СФУ",
+                    "address":  "Красноярск, ул. Академика Киренского, 26",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.995746,
+                                   92.797527
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/14910910/2a0000019a2f56f2d912b0d0aecb738df2bd/XXXL"
+                               ],
+                    "polygon":  [
+                                    [
+                                        55.996014,
+                                        92.797076
+                                    ],
+                                    [
+                                        55.996014,
+                                        92.798503
+                                    ],
+                                    [
+                                        55.994914,
+                                        92.798535
+                                    ],
+                                    [
+                                        55.994938,
+                                        92.797054
+                                    ]
+                                ]
+                },
+                {
+                    "id":  "sfu-06",
+                    "name":  "Институт нефти и газа СФУ",
+                    "address":  "Красноярск, Свободный проспект, 82с6",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.004522,
+                                   92.764384
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/1063709/2a00000162b2406921f855924eb5bdebe01b/XXXL"
+                               ],
+                    "polygon":  [
+                                    [
+                                        56.004537,
+                                        92.763981
+                                    ],
+                                    [
+                                        56.005108,
+                                        92.764646
+                                    ],
+                                    [
+                                        56.004771,
+                                        92.76529
+                                    ],
+                                    [
+                                        56.004356,
+                                        92.764464
+                                    ]
+                                ]
+                },
+                {
+                    "id":  "sfu-07",
+                    "name":  "Юридический институт / ИЭУиП СФУ",
+                    "coords":  [
+                                   56.018749,
+                                   92.838584
+                               ],
+                    "address":  "Красноярск, улица Маерчака, 6",
+                    "district":  "Железнодорожный",
+                    "bank":  "left",
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/15266990/2a00000198aaadec4eb0e3df7e8d5d2cafba/XXXL"
+                               ]
+                },
+                {
+                    "id":  "sfu-08",
+                    "name":  "Институт цветных металлов и материаловедения СФУ",
+                    "coords":  [
+                                   56.002062,
+                                   92.932473
+                               ],
+                    "address":  "Красноярск, проспект им. газеты Красноярский Рабочий, 95",
+                    "district":  "Кировский",
+                    "bank":  "right",
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/932730/2a00000165eee8f0e34db22f3caaf54e25ee/XXXL"
+                               ]
+                },
+                {
+                    "id":  "sfu-09",
+                    "name":  "Конгресс-холл СФУ",
+                    "address":  "Красноярск, Свободный проспект, 82с9",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.005341,
+                                   92.763181
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/14020851/2a00000192b7e88c88d6f00179e94f73ba00/XXXL"
+                               ],
+                    "polygon":  [
+                                    [
+                                        56.005793,
+                                        92.763678
+                                    ],
+                                    [
+                                        56.005285,
+                                        92.762664
+                                    ],
+                                    [
+                                        56.005053,
+                                        92.763029
+                                    ],
+                                    [
+                                        56.005546,
+                                        92.764053
+                                    ]
+                                ]
+                },
+                {
+                    "id":  "sfu-11",
+                    "name":  "Спорткомплекс «Радуга» / МФК СФУ",
+                    "address":  "Красноярск, улица Елены Стасовой, 69Л",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.008899,
+                                   92.724603
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/18184740/2a0000019937328640883a40544d69d4b2b1/XXXL"
+                               ]
+                },
+                {
+                    "id":  "sfu-12",
+                    "name":  "Торгово-экономический институт СФУ",
+                    "coords":  [
+                                   56.020039,
+                                   92.839996
+                               ],
+                    "address":  "Красноярск, улица Лиды Прушинской, 2",
+                    "district":  "Железнодорожный",
+                    "bank":  "left",
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/15270672/2a00000197d6bbd2aead62645784aac4620a/XXXL"
+                               ]
+                },
+                {
+                    "id":  "sfu-13",
+                    "name":  "Институт филологии и языковой коммуникации СФУ",
+                    "address":  "Красноярск, Свободный проспект, 82А",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.003952,
+                                   92.765679
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/4456415/2a000001775e1852d1d73917dc4aa4af7c2c/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-14",
+                    "name":  "Военный учебный центр СФУ",
+                    "coords":  [
+                                   55.985042,
+                                   92.754335
+                               ],
+                    "address":  "Красноярск, Академгородок, 13А",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/367512/2a0000015b9ecea28de414f97ee83714be6b/XXXL"
+                               ]
+                },
+                {
+                    "id":  "sfu-15",
+                    "name":  "Физико-математическая школа СФУ",
+                    "address":  "Красноярск, улица Борисова, 5",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.995255,
+                                   92.795789
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/20265610/2a000001a084f3328edca92208d9488fe459/XXXL"
+                               ],
+                    "polygon":  [
+                                    [
+                                        55.996082,
+                                        92.795413
+                                    ],
+                                    [
+                                        55.9961,
+                                        92.796374
+                                    ],
+                                    [
+                                        55.994925,
+                                        92.796481
+                                    ],
+                                    [
+                                        55.994934,
+                                        92.795135
+                                    ]
+                                ]
+                },
+                {
+                    "id":  "sfu-016",
+                    "name":  "Общежитие №31 СФУ",
+                    "address":  "Красноярск, Свободный проспект, 76Д",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.00799,
+                                   92.768566
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/14092818/2a00000191dd1e3786833db9b3e04fe90713/XXL_height"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-017",
+                    "name":  "Давидо",
+                    "address":  "Свободный просп., 80, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.005323,
+                                   92.768804
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/4012648/2a000001778a914f4739690b85cf719c7542/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-018",
+                    "name":  "Магазин \"Эверест\"",
+                    "address":  "Свободный просп., 74Г, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.006789,
+                                   92.772739
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/15389657/2a00000197c68db66d0ede2302dcc08e6822/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-019",
+                    "name":  "Медцентр СФУ",
+                    "address":  "Свободный просп., 82, стр. 13, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.006773,
+                                   92.761279
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/14907426/2a0000019722ba4cdef3a0cfdb033f9db640/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-020",
+                    "name":  "Институт гастрономии",
+                    "address":  "Свободный просп., 82, стр. 11, Красноярск",
+                    "district":  "Центральный",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.006005,
+                                   92.763118
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/11398069/2a00000191ec0e2b9baafeba3a8d47369bc0/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-021",
+                    "name":  "Общежитие №5 СФУ",
+                    "address":  "ул. Борисова, 24, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.994295,
+                                   92.796093
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/859900/2a00000160352cf77aa3fa7e17d9a6f4dafc/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-022",
+                    "name":  "Командор",
+                    "address":  "ул. Академика Киренского, 13, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.996649,
+                                   92.791077
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/20856454/2a0000019ee08bd3ab666fc941c26bb146fb/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-023",
+                    "name":  "U-кафе",
+                    "address":  "ул. Борисова, 3, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.995702,
+                                   92.79351
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/15381861/2a00000198243857d8241cacc4a4df57cd5c/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-024",
+                    "name":  "Общежитие №30 СФУ",
+                    "address":  "ул. Борисова, 3, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.995394,
+                                   92.793708
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/11048854/2a0000018b3d1ce706caa579b652f5b52fab/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-025",
+                    "name":  "Музей археологии и этнографии Енисейской Сибири Гуманитарного института",
+                    "address":  "ул. Борисова, 5, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.995656,
+                                   92.796312
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/16503558/2a00000198242989bb1be44a591ea3fbefc4/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-026",
+                    "name":  "Шаурма Doner house",
+                    "address":  "Дачная ул., 28/1, микрорайон Николаевка, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.996822,
+                                   92.800284
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/16136444/2a0000019af63fa5f9b36dae0d4601309681/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-027",
+                    "name":  "СФУ Корпус А",
+                    "address":  "ул. Ленина, 70",
+                    "district":  "Центральный",
+                    "bank":  "left",
+                    "coords":  [
+                                   56.013736,
+                                   92.871662
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/5533948/2a0000017c81da3ef1a508d76c867610d2af/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-028",
+                    "name":  "Институт горного дела, геологии и геотехнологий",
+                    "address":  "просп. имени Газеты Красноярский Рабочий, 95",
+                    "district":  "Кировский",
+                    "bank":  "right",
+                    "coords":  [
+                                   56.002118,
+                                   92.935051
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/1970665/2a000001775a6e4fc446e8c30087b26579cd/XXXL"
+                               ],
+                    "polygon":  null
+                },
+                {
+                    "id":  "sfu-029",
+                    "name":  "СФУ № 2 Бассейн",
+                    "address":  "ул. Академика Киренского, 15, Красноярск",
+                    "district":  "Октябрьский",
+                    "bank":  "left",
+                    "coords":  [
+                                   55.997328,
+                                   92.791945
+                               ],
+                    "images":  [
+                                   "https://avatars.mds.yandex.net/get-altay/9331640/2a00000188e0855e48618fe317e6d81bfcdb/XXXL"
+                               ],
+                    "polygon":  null
+                }
+            ]
+}
